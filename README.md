@@ -1,2 +1,2 @@
 <h1>TypeScript Project</h1>
-# GitHub API Search Web App
+<h2># GitHub API Search Web App</h2>
